@@ -16,7 +16,7 @@ class Header extends HTMLElement {
 			<!-- Menu -->
 			<div class="navbar">
 				<a class="logo" href="index.html">
-					<img src="images/logo.png" />
+					<img src="../share/images/logo.png" />
 				</a>
 				<div class="hamburger">
 					<span></span>

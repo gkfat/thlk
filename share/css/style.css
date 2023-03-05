@@ -423,6 +423,9 @@ img {
 	padding-left: 30px;
 	width: 63%;
 }
+.team .col-2 li p {
+	margin: 0;
+}
 .team h1 {
 	margin-top: 0;
 	font-size: 1.8rem;
@@ -448,7 +451,7 @@ img {
 	font-style: italic;
 	font-weight: 400;
 	color: var(--mainGray);
-	font-size: 1.2rem;
+	font-size: 1.1rem;
 }
 
 /* Team RWD */
